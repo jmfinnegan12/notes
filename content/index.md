@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Jimbo
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Notes
+blog for sharing knowledge and thoughts. built with Quartz and Obsidian. testing phase
