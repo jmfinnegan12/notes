@@ -1,0 +1,9 @@
+- [ ] book reviews
+- [x] background and objectives
+- [ ] projects
+- [ ] self mastery
+	- [ ] pkm
+	- [ ] productivity
+	- [ ] focus
+- [ ] fonts and layout
+- [ ] contact info and communication methods
