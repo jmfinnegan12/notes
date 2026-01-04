@@ -20,4 +20,4 @@ Successful traders must incorporate cross-disciplinary knowledge to solve proble
 
 I am also deeply interested in productivity, organization, mindfulness, personal knowledge management, and other related topics that I group under the umbrella of "[[Self-Mastery]]". I am an avid reader of a variety of genres. Like many other traders, I am also a poker player.
 
-Outside of my intellectual and professional ambitions, I love outdoor adventure (fly fishing, backpacking/trekking, and backcountry skiing), endurance running, stand-up comedy, and world travel. Currently struggling to get as much as I can of all of these things in my life while I grow my trading. 
+Outside of my intellectual and professional ambitions, I love outdoor adventure (fly fishing, backpacking/trekking, and backcountry skiing), endurance running, stand-up comedy, and world travel. Currently trying to maximize all of these things while growing my trading business.
