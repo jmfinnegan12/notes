@@ -1,0 +1,15 @@
+- [x] folder structure
+	- [x] home pages for each topic
+- [ ] book reviews
+- [x] background and objectives
+- [ ] self mastery
+	- [ ] pkm
+	- [ ] productivity
+	- [ ] focus
+	- [ ] [[My Approach]]
+- [ ] adapt old workflow
+- [ ] formatting
+	- [ ] fonts and layout
+	- [ ] standardized frontmatter?
+	- [ ] linting?
+- [ ] contact info and communication methods
