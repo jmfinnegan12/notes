@@ -1,12 +1,15 @@
 - [x] folder structure
 	- [x] home pages for each topic
-- [ ] book reviews
+- [x] book reviews
 - [x] background and objectives
 - [ ] self mastery
 	- [ ] pkm
 	- [ ] productivity
 	- [ ] focus
 	- [ ] [[My Approach]]
+- [ ] trading notes
+	- [ ] concepts
+	- [ ] open source tools
 - [ ] adapt old workflow
 - [ ] formatting
 	- [ ] fonts and layout
