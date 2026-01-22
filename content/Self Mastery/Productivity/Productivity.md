@@ -10,6 +10,7 @@ all things related to productivity
 ## Daily Productivity
 [[Pomodoro Method]] and [[Time Blocking]]  
 [[Prioritizing]]  
+[[Batching]]  
 [[Work Inertia]] and [[Work Warm Up]]  
 
 ## Habits
