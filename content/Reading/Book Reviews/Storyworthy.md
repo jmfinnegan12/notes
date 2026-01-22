@@ -36,4 +36,3 @@ Provides techniques for finding, crafting, and telling stories that connect with
 - There is nothing more banal and meaningless than talking about the weather.
 - Perfect plans executed perfectly never make good stories. They are the stories told by narcissists, jackasses, and thin-skinned egotists.
 - Always provide a physical location for every moment of your story.
-- Story can never

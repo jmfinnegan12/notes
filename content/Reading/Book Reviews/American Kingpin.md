@@ -18,5 +18,5 @@ rating: 3
 # American Kingpin by Nick Bilton
 
 # Summary
-Embellished, anti-Ross story. Worthwhile read
+Embellished. Worthwhile read
 

@@ -18,5 +18,3 @@ rating: 4
 
 # Summary
 Story of a Russian aristocrat sentenced to house arrest for life in a luxury hotel in Moscow at the beginning of the Russian Revolution. Engaging, suspenseful, touching, humorous -- overall fantastic read.
-
-# Quotes

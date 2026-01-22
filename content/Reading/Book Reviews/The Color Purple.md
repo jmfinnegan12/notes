@@ -19,7 +19,7 @@ rating: 5
 # The Color Purple by Alice Walker
 
 # Summary
-very touching, unique "epistolary" format--each chapter is a letter written by one of the characters. mostly by Celie to God and her sister Nettie. 
+very touching, "epistolary" format--each chapter is a letter written by one of the characters. mostly by Celie to God and her sister Nettie. 
 # Themes
 realizing self worth
 faith/spirituality separated from religion

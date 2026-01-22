@@ -22,14 +22,14 @@ tongue in cheek commentary about elites and their self-important behavior.
 
 I found the first half of this book to be like a slow, boring soap opera. But I really began to enjoy it when I got used to the style and realized it was satirical. Caricatures brought to life with extensive dialogue. Overall enjoyable read.
 
-side note: funny that Jane Austen named the character eldest, prettiest, purest, and most desirable daughter "Jane"
+side note: funny that **Jane** Austen named the eldest, prettiest, purest, most virtuous, and most desirable daughter "Jane"
 # Themes
 Pride
 Prejudice
 
 # Quotes
 - “It is particularly incumbent on those who never change their opinion, to be secure of judging properly at first.” -Mr. Darcy (foreshadowing)
-- People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! But it is always so. Those who do not complain are never pitied.” -Mrs. Bennet
+- People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! But it is always so. Those who do not complain are never pitied. -Mrs. Bennet
 - The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.
 - A man in distressed circumstances has not time for all those elegant decorums which other people may observe.
 - I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manner nor sense to recommend him. Stupid men are the only ones worth knowing, after all.”

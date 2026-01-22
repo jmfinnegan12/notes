@@ -3,8 +3,8 @@ home page for my notes related to reading.
 
 # Book Reviews
 MAY CONTAIN SPOILERS. I AM NOT LIABLE.  
-[[2025 - Top Books]]  
-[[2025 - All Books]]  
+[[2025 Favorite Books]]  
+[[2025 Books]]  
 
 ## Rating System
 5 - most recommend. highly thought provoking. deep impact  

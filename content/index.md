@@ -2,9 +2,9 @@
 title: Algo Jimbo
 ---
 # Home
-I am interested in financial markets, data driven strategy, and self-mastery. I am currently working as a solo prop trader. These are my public notes.
+I am interested in financial markets, data driven strategy, and self-mastery. I am currently working as a solo prop trader. These are my public notes. 
 
-Built with Quartz and Obsidian. Work in progress
+Built with Quartz and Obsidian. Work in progress -- needs more humor
 
 # About This Site
 I started this site to compile, organize, and publicize my notes on my journey. The most valuable and impactful resources I have found have been compiled by individuals like me. I want to pay it forward and connect with like-minded people along the way. I take a lot of notes about a variety of topics in Obsidian. Over time I will populate this site with some that I think are worth sharing, many trading-related, many not.

@@ -1,4 +1,4 @@
-# 2025 - My Favorite Books I Read
+# 2025 Favorite Books
 1. [[All the Light We Cannot See]]
 2. [[The Four Hour Workweek]]
 3. [[The Color Purple]]
