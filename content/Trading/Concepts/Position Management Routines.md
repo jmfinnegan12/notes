@@ -7,7 +7,7 @@ We can "attach" a PMR to a set of entry rules to create a full strategy
 $$
 \text{Entry rules} + \text{PMR} = \text{Strategy}
 $$
-This modularizes strategy development.
+**This modularizes strategy development.**
 
 A few trivial PMR examples:
 - stop loss
@@ -26,11 +26,11 @@ Two simple entry rule only cases that are easily backtested:
 
 What if we are still not satisfied with that? What if we want to use a stop loss? A trailing stop loss? What about adding to the position if it reaches a profit threshold? There are infinitely many sets of rules for managing a position 
 
-Much of the quant literature deals with position management at the *portfolio* level. There is an abundance of research and well known quantitative frameworks (Kelly formula, Modern Portfolio Theory, various ML frameworks) that aim to answer the question:
+Much of the quant literature deals with position management at the *portfolio* level. There is an abundance of research and well known quantitative frameworks (Kelly formula, Modern Portfolio Theory, various ML frameworks) that aim to answer the question:  
 >1. If we have a portfolio of several strategies, how much of our total capital do we allocate to each of them, given what we know about their historical performance? 
 
-Comparatively few quantitative frameworks deal with position management at the *strategy* level. I am not aware of any frameworks that aim to answer the question:
-> 2. If we have an open position, how can we formulate a set of rules to maximize its expected value?
+Comparatively few quantitative frameworks deal with position management at the *strategy* level. I am not aware of any frameworks that aim to answer the question:  
+>2. If we have an open position, how can we formulate a set of rules to maximize its expected value?
 
 Question 2 comes after the entry signal. Entry signals do not always make the best exit signals, especially for strategies with skewed upside/downside risk profiles. We might want to cut losses, take profits, double down, etc. 
 
