@@ -1,10 +1,27 @@
 # 2025 Book Reviews
-```dataview
-table author, rating, category
-from #book
-where contains(status, "read") AND !contains(status, "unread") AND !contains(status, "reading")
-where !contains(file.path, "1 - Reading Lists")
-where !contains(file.path, "Templates")
-where date_finished.year = 2025
-sort rating desc
-```
+
+| File                                                                                                                                                  | author           | rating | category                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------ | --------------------------------------------- |
+| [All the Light We Cannot See](app://obsidian.md/Public/Reading/Book%20Reviews/All%20the%20Light%20We%20Cannot%20See.md)                               | Anthony Doerr    | 5      | - historical fiction<br>- war                 |
+| [The Four Hour Workweek](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Four%20Hour%20Workweek.md)                                             | Tim Ferriss      | 5      | - business<br>- self help                     |
+| [The Color Purple](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Color%20Purple.md)                                                           | Alice Walker     | 5      | - historical fiction<br>- epistolary          |
+| [Trout and Their Food](app://obsidian.md/Public/Reading/Book%20Reviews/Trout%20and%20Their%20Food.md)                                                 | Dave Whitlock    | 4      | - fly fishing                                 |
+| [The Death of Ivan Ilyich](app://obsidian.md/2%20-%20Reading/Book%20Notes/The%20Death%20of%20Ivan%20Ilyich.md)                                        | Leo Tolstoy      | 4      | - fiction<br>- realist                        |
+| [A Gentleman in Moscow](app://obsidian.md/Public/Reading/Book%20Reviews/A%20Gentleman%20in%20Moscow.md)                                               | Amor Towles      | 4      | - historical fiction                          |
+| [Pride and Prejudice](app://obsidian.md/Public/Reading/Book%20Reviews/Pride%20and%20Prejudice.md)                                                     | Jane Austen      | 4      | - classics                                    |
+| [The Sun Also Rises](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Sun%20Also%20Rises.md)                                                     | Ernest Hemingway | 3      | - historical fiction                          |
+| [The Lincoln Highway](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Lincoln%20Highway.md)                                                     | Amor Towles      | 3      | - historical fiction                          |
+| [The History of Fly-Fishing in Fifty Flies](app://obsidian.md/Public/Reading/Book%20Reviews/The%20History%20of%20Fly-Fishing%20in%20Fifty%20Flies.md) | Ian Whitelaw     | 3      | - fly fishing                                 |
+| [Rules of Civility](app://obsidian.md/Public/Reading/Book%20Reviews/Rules%20of%20Civility.md)                                                         | Amor Towles      | 3      | - historical fiction                          |
+| [On Earth We're Briefly Gorgeous](app://obsidian.md/Public/Reading/Book%20Reviews/On%20Earth%20We're%20Briefly%20Gorgeous.md)                         | Ocean Vuong      | 3      | - fiction<br>- autobiography<br>- avant-garde |
+| [For Whom the Bell Tolls](app://obsidian.md/Public/Reading/Book%20Reviews/For%20Whom%20the%20Bell%20Tolls.md)                                         | Ernest Hemingway | 3      | - historical fiction                          |
+| [Die With Zero](app://obsidian.md/Public/Reading/Book%20Reviews/Die%20With%20Zero.md)                                                                 | Bill Perkins     | 3      | - lifestyle<br>- personal finance             |
+| [Brave New World](app://obsidian.md/Public/Reading/Book%20Reviews/Brave%20New%20World.md)                                                             | Aldous Huxley    | 3      | - dystopian<br>- philosophy                   |
+| [Atomic Habits](app://obsidian.md/Public/Reading/Book%20Reviews/Atomic%20Habits.md)                                                                   | James Clear      | 3      | - self help                                   |
+| [American Kingpin](app://obsidian.md/Public/Reading/Book%20Reviews/American%20Kingpin.md)                                                             | Nick Bilton      | 3      | - true crime                                  |
+| [Storyworthy](app://obsidian.md/Public/Reading/Book%20Reviews/Storyworthy.md)                                                                         | Matthew Dicks    | 3      | - self help                                   |
+| [The Magic of Thinking Big](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Magic%20of%20Thinking%20Big.md)                                     | David J Schwartz | 3      | - self help                                   |
+| [The Alchemist](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Alchemist.md)                                                                   | Paulo Coelho     | 2      | - fiction<br>- proverb                        |
+| [How to Change Your Mind](app://obsidian.md/Public/Reading/Book%20Reviews/How%20to%20Change%20Your%20Mind.md)                                         | Michael Pollan   | 2      | - science                                     |
+| [The Screwtape Letters](app://obsidian.md/Public/Reading/Book%20Reviews/The%20Screwtape%20Letters.md)                                                 | CS Lewis         | 1      | - epistolary                                  |
+| [Island](app://obsidian.md/Public/Reading/Book%20Reviews/Island.md)                                                                                   | Aldous Huxley    | 1      | - fiction                                     |
