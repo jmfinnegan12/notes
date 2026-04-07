@@ -1,25 +1,25 @@
 ---
-title: Algo Jimbo
+title: Jim Finnegan
 ---
 # Home
-Placeholder homepage
-
 Built with Quartz and Obsidian. 
 
-# Projects
-## [[Temerity Holdings]]
-Building an experimental "quant fund" comprised of AI agents.
+## About Me
+I began as an engineer, went back to grad school for a semester, dropped out to work as an analyst on a commodities desk, progressed to junior trader, quit after three years, traveled for a year, and began working on my own. Academia and corporate jobs are not my calling.
 
-## [[Systematic Poker]]
-Vibe coding a tool to analyze and improve my poker game
+I am interested in data driven strategy, philosophy, and self-mastery. My hobbies and interests include outdoor adventure (fly fishing, backpacking, and backcountry skiing), endurance running, poker, reading, music, comedy, and world travel. Currently trying to combine my hobbies and intellectual interests with my career. I am working on several projects linked here.
 
-## [[Fly Fishing Blog]]
-Writing and publishing a trip report every time I go fishing
+## Projects
+### [[Temerity Holdings]]
+Building an experimental "quant trading fund" comprised of AI agents.
 
-## [[Career Hobbyist]]
-Documenting creating my career entirely out of "side hustles"
+### [[Systematic Poker]]
+Vibe coding a tool to analyze and improve my poker game.
 
-# About Me
-I began as an engineer, went back to grad school, dropped out to work as an analyst on a commodities desk, progressed to junior trader, quit and started on my own. Academia and corporate jobs were not my calling. 
+### [[Fly Fishing Blog]]
+Writing trip reports when I go fishing.
 
-I am interested in data driven strategy, philosophy, and self-mastery. I love outdoor adventure--fly fishing, backpacking, backcountry skiing-- endurance running, stand-up comedy, and world travel. Currently trying to combine my hobbies and intellectual interests with my career. I am working on several projects linked here.
+### [[Career Hobbyist]]
+Documenting creating my career of "side hustles".
+
+
