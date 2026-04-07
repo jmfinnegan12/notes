@@ -11,15 +11,15 @@ I am interested in data driven strategy, philosophy, and self-mastery. My hobbie
 
 ## Projects
 ### [[Temerity Holdings]]
-Building an experimental "quant trading fund" comprised of AI agents.
+Building an experimental "quant trading fund" comprised of AI agents.  
 
 ### [[Systematic Poker]]
-Vibe coding a tool to analyze and improve my poker game.
+Vibe coding a tool to analyze and improve my poker game.  
 
 ### [[Fly Fishing Blog]]
-Writing trip reports when I go fishing.
+Writing trip reports when I go fishing.  
 
 ### [[Career Hobbyist]]
-Documenting creating my career of "side hustles".
+Documenting creating my career of "side hustles".  
 
 
