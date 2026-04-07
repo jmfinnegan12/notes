@@ -1,8 +1,0 @@
-- check email
-- deal with travel issues
-- "executive" assistant
-	- business overhead
-	- scheduling
-- content
-	- editing/posting
-	- SEO
