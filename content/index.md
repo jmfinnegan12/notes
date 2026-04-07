@@ -2,7 +2,7 @@
 title: Jim Finnegan
 ---
 # Home
-Built with Quartz and Obsidian. 
+My homepage  
 
 ## About Me
 I began as an engineer, went back to grad school for a semester, dropped out to work as an analyst on a commodities desk, progressed to junior trader, quit after three years, traveled for a year, and began working on my own. Academia and corporate jobs are not my calling.
@@ -21,5 +21,6 @@ Writing trip reports when I go fishing.
 
 ### [[Career Hobbyist]]
 Documenting creating my career of "side hustles".  
+
 
 
