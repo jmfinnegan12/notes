@@ -10,17 +10,9 @@ I began as an engineer, went back to grad school for a semester, dropped out to 
 I am interested in data driven strategy, philosophy, and self-mastery. My hobbies and interests include outdoor adventure (fly fishing, backpacking, and backcountry skiing), endurance running, and world travel, as well as poker, reading, music, and comedy. I am currently combining my hobbies and intellectual interests with my career. I am working on several projects linked here.
 
 ## Projects
-### [[Temerity Holdings]]
-Building an experimental "quant trading fund" comprised of AI agents.  
-
-### [[Systematic Poker]]
-Vibe coding a tool to analyze and improve my poker game.  
-
-### [[Fly Fishing Blog]]
-Writing trip reports when I go fishing.  
-
-### [[Career Hobbyist]]
-Documenting creating my career of "side hustles".  
+[[Temerity Holdings]]: building an experimental "quant trading fund" comprised of AI agents. [[Systematic Poker]]: vibe coding a tool to analyze and improve my poker game.  
+[[Fly Fishing Blog]]: writing trip reports when I go fishing.  
+[[Career Hobbyist]]: documenting creating my career of "side hustles".  
 
 
 
