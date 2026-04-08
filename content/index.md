@@ -13,7 +13,7 @@ I am interested in data driven strategy, philosophy, and self-mastery. My hobbie
 [[Temerity Holdings]] - building an experimental "quant trading fund" comprised of AI agents.  
 [[Systematic Poker]] - vibe coding a tool to analyze and improve my poker game.  
 [[Sand Flea Media]] - writing trip reports when I go fishing.  
-[[Polymath Career|The Polymath Career]] - documenting creating my career of "side hustles".  
+[[Polymath Career|The Polymath Career]] - documenting creating my career of side hustles.  
 
 
 
