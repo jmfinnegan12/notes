@@ -2,7 +2,7 @@
 title: Jim Finnegan
 ---
 # Home
-My homepage  
+current homepage [here](https://algojimbo.com/)
 
 ## About Me
 I began as an engineer, went back to grad school for a semester, dropped out to work as an analyst on a commodities desk, progressed to junior trader, quit after three years, traveled for a year, and began working on my own. Academia and corporate jobs are not my calling.
